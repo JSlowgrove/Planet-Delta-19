@@ -3,33 +3,29 @@
     Dim health, completion, leaderhealth, leaderdamage, warriorhealth, warriordamage, assasinhealth, assasindamage, grunthealth, gruntdamage, henchhealth, henchdamage, rougehealth, rougedamage, healthpack As Integer
     Sub Main()
         completion = 0
-        game19display()
+        masteredchaosdisplay()
         Console.ReadKey()
         Console.Clear()
         mainmenu()
     End Sub 'startup
-    Sub game19display()
-        Console.WriteLine("          _")
-        Console.WriteLine("      |  (_)")
-        Console.ForegroundColor = ConsoleColor.Blue
-        Console.Write("    G ")
-        Console.ForegroundColor = ConsoleColor.White
-        Console.Write("|")
-        Console.ForegroundColor = ConsoleColor.Blue
-        Console.Write("A M ")
-        Console.ForegroundColor = ConsoleColor.White
-        Console.Write("|")
-        Console.ForegroundColor = ConsoleColor.Blue
-        Console.WriteLine(" E ")
-        Console.ForegroundColor = ConsoleColor.White
-        Console.WriteLine("      |    |")
+    Sub masteredchaosdisplay()
         Console.WriteLine()
-        Console.Write(" A ")
-        Console.ForegroundColor = ConsoleColor.Blue
-        Console.Write("GAME")
+        Console.WriteLine()
+        Console.WriteLine()
+        Console.WriteLine()
+        Console.Write("                         ")
         Console.ForegroundColor = ConsoleColor.White
-        Console.WriteLine(" 19 Creation")
-    End Sub 'writes the Game 19 logo to the screen
+        Console.BackgroundColor = ConsoleColor.Red
+        Console.Write("M")
+        Console.ForegroundColor = ConsoleColor.Black
+        Console.WriteLine("astered ")
+        Console.ForegroundColor = ConsoleColor.White
+        Console.BackgroundColor = ConsoleColor.Black
+        Console.Write("                       ")
+        Console.BackgroundColor = ConsoleColor.Red
+        Console.WriteLine("C  H  A  O  S")
+        Console.BackgroundColor = ConsoleColor.Black
+    End Sub 'writes the Mastered chaos logo to the screen
     Sub mainmenu()
         Console.Clear()
         Console.WriteLine("Hello and welcome to Jamie's RPG")
