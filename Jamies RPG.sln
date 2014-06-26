@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Jamies RPG", "Jamies RPG\Jamies RPG.vbproj", "{83071A61-8ECC-43F4-8BE3-2FAE4D036433}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Jamies RPG", "Jamies RPG\Jamies RPG.vbproj", "{6D779A45-FE4D-4681-9513-D8D216121945}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{83071A61-8ECC-43F4-8BE3-2FAE4D036433}.Debug|x86.ActiveCfg = Debug|x86
-		{83071A61-8ECC-43F4-8BE3-2FAE4D036433}.Debug|x86.Build.0 = Debug|x86
-		{83071A61-8ECC-43F4-8BE3-2FAE4D036433}.Release|x86.ActiveCfg = Release|x86
-		{83071A61-8ECC-43F4-8BE3-2FAE4D036433}.Release|x86.Build.0 = Release|x86
+		{6D779A45-FE4D-4681-9513-D8D216121945}.Debug|x86.ActiveCfg = Debug|x86
+		{6D779A45-FE4D-4681-9513-D8D216121945}.Debug|x86.Build.0 = Debug|x86
+		{6D779A45-FE4D-4681-9513-D8D216121945}.Release|x86.ActiveCfg = Release|x86
+		{6D779A45-FE4D-4681-9513-D8D216121945}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

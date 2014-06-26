@@ -1,16 +1,76 @@
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.exe
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.pdb
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.xml
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies_RPG.Resources.resources
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.vbproj.GenerateResource.Cache
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.exe
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.xml
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.pdb
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Infernum\Jamies RPG\obj\x86\Debug\Jamies RPG.exe
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Infernum\Jamies RPG\obj\x86\Debug\Jamies RPG.xml
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Infernum\Jamies RPG\obj\x86\Debug\Jamies RPG.pdb
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Infernum\Jamies RPG\bin\Debug\Jamies RPG.exe
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Infernum\Jamies RPG\bin\Debug\Jamies RPG.pdb
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Infernum\Jamies RPG\bin\Debug\Jamies RPG.xml
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Infernum\Jamies RPG\obj\x86\Debug\Jamies_RPG.Resources.resources
-C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Infernum\Jamies RPG\obj\x86\Debug\Jamies RPG.vbproj.GenerateResource.Cache
+h:\visual studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.exe
+h:\visual studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.pdb
+h:\visual studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.xml
+h:\visual studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+h:\visual studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\ConsoleApplication1.Resources.resources
+h:\visual studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\GenerateResource.read.1.tlog
+h:\visual studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\GenerateResource.write.1.tlog
+h:\visual studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.exe
+h:\visual studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.xml
+h:\visual studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.pdb
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.exe
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.xml
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.pdb
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Jamies RPG\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.exe
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Jamies RPG\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.pdb
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Jamies RPG\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.xml
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.exe
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.xml
+C:\Documents and Settings\Andrew Slowgrove\My Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.pdb
+H:\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.exe
+H:\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.xml
+H:\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.pdb
+H:\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.exe
+H:\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.xml
+H:\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.pdb
+H:\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.exe
+H:\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.pdb
+H:\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.xml
+H:\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\ConsoleApplication1.Resources.resources
+H:\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.exe
+E:\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.xml
+E:\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.pdb
+E:\Jamies RPG\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.exe
+E:\Jamies RPG\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.pdb
+E:\Jamies RPG\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.xml
+E:\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Jamies RPG\Jamies RPG\Jamies RPG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Planet Delta 19.exe.manifest
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Planet Delta 19.application
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Planet Delta 19.exe
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Planet Delta 19.pdb
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Planet Delta 19.xml
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\PlanetDelta19.Resources.resources
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Planet Delta 19.TrustInfo.xml
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Planet Delta 19.exe.manifest
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Planet Delta 19.application
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Planet Delta 19.exe
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Planet Delta 19.xml
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Planet Delta 19.pdb
+G:\MyFiles\Stuff\Old Programing\VB\Jamies RPG\Jamies RPG\obj\x86\Debug\Planet Delta 19.exe
+G:\MyFiles\Stuff\Old Programing\VB\Jamies RPG\Jamies RPG\obj\x86\Debug\Planet Delta 19.xml
+G:\MyFiles\Stuff\Old Programing\VB\Jamies RPG\Jamies RPG\obj\x86\Debug\Planet Delta 19.pdb
+G:\MyFiles\Stuff\Old Programing\VB\Jamies RPG Versions\Jamies RPG 2.0\Jamies RPG\obj\x86\Debug\Planet Delta 19.exe
+G:\MyFiles\Stuff\Old Programing\VB\Jamies RPG Versions\Jamies RPG 2.0\Jamies RPG\obj\x86\Debug\Planet Delta 19.xml
+G:\MyFiles\Stuff\Old Programing\VB\Jamies RPG Versions\Jamies RPG 2.0\Jamies RPG\obj\x86\Debug\Planet Delta 19.pdb
+C:\Users\Jamie\Documents\MyFiles\Programming\VB\Jamies RPG Versions\Jamies RPG 2.0\Jamies RPG\obj\x86\Debug\Planet Delta 19.exe
+C:\Users\Jamie\Documents\MyFiles\Programming\VB\Jamies RPG Versions\Jamies RPG 2.0\Jamies RPG\obj\x86\Debug\Planet Delta 19.xml
+C:\Users\Jamie\Documents\MyFiles\Programming\VB\Jamies RPG Versions\Jamies RPG 2.0\Jamies RPG\obj\x86\Debug\Planet Delta 19.pdb
+C:\Users\Jamie\Documents\MyFiles\Programming\VB\Jamies RPG Versions\Planet Delta 19\Jamies RPG\obj\x86\Debug\Planet Delta 19.exe
+C:\Users\Jamie\Documents\MyFiles\Programming\VB\Jamies RPG Versions\Planet Delta 19\Jamies RPG\obj\x86\Debug\Planet Delta 19.xml
+C:\Users\Jamie\Documents\MyFiles\Programming\VB\Jamies RPG Versions\Planet Delta 19\Jamies RPG\obj\x86\Debug\Planet Delta 19.pdb
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Infernum\Jamies RPG\obj\x86\Debug\Planet Delta 19.exe
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Infernum\Jamies RPG\obj\x86\Debug\Planet Delta 19.xml
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Infernum\Jamies RPG\obj\x86\Debug\Planet Delta 19.pdb

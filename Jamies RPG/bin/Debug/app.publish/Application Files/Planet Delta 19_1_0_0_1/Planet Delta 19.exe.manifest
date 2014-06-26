@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.1" name="Planet Delta 19.exe" publicKeyToken="fd1c62de61c9a909" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Resources\planetdelta19icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Planet Delta 19" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Planet Delta 19.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Planet Delta 19.exe" size="774144">
+      <assemblyIdentity name="Planet Delta 19" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>aOP12wr0X6ycKuufBrsk+kEWmjg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Resources\planetdelta19icon.ico" size="353118">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>V8RGdwyDWevcOenNminyVxGqSxg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=Mastered-Chaos\Jamie" issuerKeyHash="1a860ac2d472643db4a9d1fe1e70ff551bab6495" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>2y6VNDVz0HB6BU5WvsMAFIekGrU=</DigestValue></Reference></SignedInfo><SignatureValue>o13UbLrysHdb6LGlCiTc2yuydlawXIqK1d1fNTL1vvfQP5kpAz0ngepIQxXs+3GxSSa/VHT1Oq8ql70j2VZKKYMROVz/3HfLGYrc2lgAkmpZMNctpxKj7mQhirGd+UxVp7G7zFIbUhCVWtUY9yRCxI25r7K0w2UWy0cW1dFtZbU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>57ZPKGtFvpd6nvBfZRaaIBm/ntBWB33KMTMeMymzJteD8SUt0GX2X+t75Ztt5P0Rn1HXFP67stk277wNyT7Vi9E64iz3T9IJm9Iv2mS4ktZR4E8Lg3bhsjv3n7nQP/ySPlXLLnY0Z0XYmSoTCtQRLQn9Sm124IbKJTYAesW29vk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b51aa4871400c3be564e057a70d0733534952edb" Description="" Url=""><as:assemblyIdentity version="1.0.0.1" name="Planet Delta 19.exe" publicKeyToken="fd1c62de61c9a909" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Mastered-Chaos\Jamie</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>u8WdUCdmcnv/wofGXsbEN/RTgHM=</DigestValue></Reference></SignedInfo><SignatureValue>zfaRYqBUs5R5sHgTVc+eimnH3UTuZT9GaA08Jkxa+AKQPQ2kP9xdNSjvN5AmdfeFHGklj8DNialA7tGjD4EHW+QWBeFUOXJySUheUHcwNYyuXzVG8/5VWeezFtnGKFPYyAxm8LFBMF+/2we52qkhgCkCXDOQuDM6hzTKmgagqaE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>57ZPKGtFvpd6nvBfZRaaIBm/ntBWB33KMTMeMymzJteD8SUt0GX2X+t75Ztt5P0Rn1HXFP67stk277wNyT7Vi9E64iz3T9IJm9Iv2mS4ktZR4E8Lg3bhsjv3n7nQP/ySPlXLLnY0Z0XYmSoTCtQRLQn9Sm124IbKJTYAesW29vk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQJQX+xCZCZp1G4W3H4wUIxjANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigATQBhAHMAdABlAHIAZQBkAC0AQwBoAGEAbwBzAFwASgBhAG0AaQBlMB4XDTEzMDkyMjE3MDg1NFoXDTE0MDkyMjIzMDg1NFowMzExMC8GA1UEAx4oAE0AYQBzAHQAZQByAGUAZAAtAEMAaABhAG8AcwBcAEoAYQBtAGkAZTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA57ZPKGtFvpd6nvBfZRaaIBm/ntBWB33KMTMeMymzJteD8SUt0GX2X+t75Ztt5P0Rn1HXFP67stk277wNyT7Vi9E64iz3T9IJm9Iv2mS4ktZR4E8Lg3bhsjv3n7nQP/ySPlXLLnY0Z0XYmSoTCtQRLQn9Sm124IbKJTYAesW29vkCAwEAATANBgkqhkiG9w0BAQUFAAOBgQCBIb4tILWhggv4oA+1zVTHumJNp/RwwyPEcCl+wJwDdv1TIxD44pZ3BpkRKpJojMEQslGZVzShYqY8oJFaxXL9JAWywRQrg46NcTskpwpOqnbKU+7dDK2p9mEjkV/eLW//MCiVM2tziiZEvbktUCM0Z0MrYQG8iQ7TTif4la2j1Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
