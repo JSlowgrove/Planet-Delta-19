@@ -3,8 +3,33 @@
     Dim health, completion, leaderhealth, leaderdamage, warriorhealth, warriordamage, assasinhealth, assasindamage, grunthealth, gruntdamage, henchhealth, henchdamage, rougehealth, rougedamage, healthpack As Integer
     Sub Main()
         completion = 0
+        game19display()
+        Console.ReadKey()
+        Console.Clear()
         mainmenu()
     End Sub 'startup
+    Sub game19display()
+        Console.WriteLine("          _")
+        Console.WriteLine("      |  (_)")
+        Console.ForegroundColor = ConsoleColor.Blue
+        Console.Write("    G ")
+        Console.ForegroundColor = ConsoleColor.White
+        Console.Write("|")
+        Console.ForegroundColor = ConsoleColor.Blue
+        Console.Write("A M ")
+        Console.ForegroundColor = ConsoleColor.White
+        Console.Write("|")
+        Console.ForegroundColor = ConsoleColor.Blue
+        Console.WriteLine(" E ")
+        Console.ForegroundColor = ConsoleColor.White
+        Console.WriteLine("      |    |")
+        Console.WriteLine()
+        Console.Write(" A ")
+        Console.ForegroundColor = ConsoleColor.Blue
+        Console.Write("GAME")
+        Console.ForegroundColor = ConsoleColor.White
+        Console.WriteLine(" 19 Creation")
+    End Sub 'writes the Game 19 logo to the screen
     Sub mainmenu()
         Console.Clear()
         Console.WriteLine("Hello and welcome to Jamie's RPG")
@@ -110,7 +135,7 @@
         Console.WriteLine("You walk towards the array and go through the first door, There is right or left corridor to take, which do you choose? (right/left)")
         coridorone = Console.ReadLine
         coridorone = UCase(coridorone)
-        Select Case coridorone
+        Select coridorone
             Case "RIGHT"
                 coridoroneright()
             Case "LEFT"
@@ -219,7 +244,7 @@
         Dim choice As String
         choice = Console.ReadLine
         choice = UCase(choice)
-        Select Case choice
+        Select choice
             Case "FIGHT"
                 Console.WriteLine("Do you fire your rifle, use your knife or do nothing? (melee/shoot)")
                 Dim battlechoice As String
@@ -1132,7 +1157,7 @@
         Dim choice As String
         choice = Console.ReadLine
         choice = UCase(choice)
-        Select Case choice
+        Select choice
             Case "TRAP"
                 healthpack = 50
                 Randomize()
