@@ -1,0 +1,8 @@
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.exe
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.pdb
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\bin\Debug\Jamies RPG.xml
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies_RPG.Resources.resources
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.vbproj.GenerateResource.Cache
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.exe
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.xml
+C:\Users\Jamie\Documents\Visual Studio 2010\Projects\Jamies RPG\Jamies RPG\obj\x86\Debug\Jamies RPG.pdb
